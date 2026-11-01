@@ -1,0 +1,10 @@
+﻿J;J01;Urcsata 3;19990;PS5;U
+J;J02;Kincsvadasz;12990;Switch;H
+J;J03;Rally Mester 2;16990;PC;U
+J;J04;Farm Elet;9990;Switch;H
+K;K01;Vezetek nelkuli kontroller;24990;280
+K;K02;Gamer fejhallgato;14990;350
+K;K03;Egerpad XL;3990;400
+D;D01;Urcsata 3 bovites;5990
+D;D02;Online tagsag 12 honap;8990
+D;D03;Ajandekkartya 5000;5000
